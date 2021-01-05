@@ -7,4 +7,7 @@ Pizza
 Pista
 Rice 
 
+Burger
+Ice-cream
+
 Thank you
